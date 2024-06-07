@@ -29,7 +29,7 @@ The dataset consists of images categorized into the following classes:
 Each image is pre-processed and augmented to ensure robust training. The dataset is split into training and validation sets.
 
 ## Results
-![Confusion Matrix](matrix.png)
-![Precision Recall Curve](pre_recall.png)
-![ROC Curve](roc.png)
-![F1 Score](f1_score.png)
+![Confusion Matrix](images/matrix.png)
+![Precision Recall Curve](images/pre_recall.png)
+![ROC Curve](images/roc.png)
+![F1 Score](images/f1_score.png)
